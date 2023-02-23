@@ -20,4 +20,6 @@ including significant increase in air pollution levels over the past few decades
 
 ![Power BI Dashboard1](https://user-images.githubusercontent.com/122545046/220965954-88c5d157-97fd-4b8c-b9b2-05b0546c7870.png)
 
+![SQL Query](https://user-images.githubusercontent.com/122545046/220966243-27db4957-38b1-476f-b0fa-113edc37e3e4.png)
+
 
