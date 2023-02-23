@@ -13,3 +13,5 @@ microsoft SQL server management studio for database management and python jupyte
 including significant increase in air pollution levels over the past few decades, impact of human activities on air quality
 
 
+# SCREENSHOTS OF PROJECT 
+![Data analysis using Python pandas](https://user-images.githubusercontent.com/122545046/220964421-cb268d2b-0347-4a26-a86e-0d2174d57962.png)
